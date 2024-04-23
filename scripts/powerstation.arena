@@ -1,0 +1,6 @@
+{
+map		"powerstation"
+longname	"Power Station"
+type		"ffa"
+bots		"doom hunter major ranger sarge slash tankjr visor"
+}

@@ -1,0 +1,6 @@
+{
+map		"quarantine"
+longname	"Quarantine"
+type		"ffa team ca"
+bots		"doom hunter major ranger sarge slash tankjr visor"
+}

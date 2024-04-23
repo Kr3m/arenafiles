@@ -1,0 +1,6 @@
+{
+map		"smash"
+longname	"Smash"
+type		"ffa ca"
+bots		"doom hunter major ranger sarge slash tankjr visor"
+}

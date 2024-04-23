@@ -1,0 +1,5 @@
+{
+map		"basesiege"
+longname	"Base Siege"
+type		"ctf"
+}

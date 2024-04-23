@@ -1,0 +1,5 @@
+{
+map		"blastradius"
+longname	"Blast Radius"
+type		"ctf"
+}

@@ -1,0 +1,6 @@
+{
+map		"corrosion"
+longname	"Corrosion"
+type		"ffa team"
+bots		"doom hunter major ranger sarge slash tankjr visor"
+}

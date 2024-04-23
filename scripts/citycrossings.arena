@@ -1,0 +1,6 @@
+{
+map		"citycrossings"
+longname	"City Crossings"
+type		"ctf"
+bots		"doom hunter major ranger sarge slash tankjr visor"
+}
