@@ -1,5 +1,5 @@
 {
 map		"beyondreality"
 longname	"Beyond Reality"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

@@ -1,5 +1,5 @@
 {
 map		"infinity"
 longname	"Infinity"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

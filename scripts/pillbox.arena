@@ -1,5 +1,5 @@
 {
 map		"pillbox"
 longname	"Pillbox"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

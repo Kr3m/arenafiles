@@ -1,5 +1,5 @@
 {
 map		"campercrossings"
 longname	"Camper Crossings"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

@@ -1,5 +1,5 @@
 {
 map		"dividedcrossings"
 longname	"Divided Crossings"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

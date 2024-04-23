@@ -1,5 +1,5 @@
 {
 map		"vortexportal"
 longname	"Vortex Portal"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

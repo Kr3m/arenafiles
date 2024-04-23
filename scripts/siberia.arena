@@ -1,5 +1,5 @@
 {
 map		"siberia"
 longname	"Siberia"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

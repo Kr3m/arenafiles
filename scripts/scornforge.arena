@@ -1,5 +1,5 @@
 {
 map		"scornforge"
 longname	"Scornforge"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

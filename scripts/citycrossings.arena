@@ -1,6 +1,6 @@
 {
 map		"citycrossings"
 longname	"City Crossings"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 bots		"doom hunter major ranger sarge slash tankjr visor"
 }

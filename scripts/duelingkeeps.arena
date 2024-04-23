@@ -1,5 +1,5 @@
 {
 map		"duelingkeeps"
 longname	"Dueling Keeps"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

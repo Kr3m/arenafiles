@@ -1,5 +1,5 @@
 {
 map		"pulpfriction"
 longname	"Pulp Friction"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

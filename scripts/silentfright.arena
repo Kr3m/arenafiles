@@ -1,5 +1,5 @@
 {
 map		"silentfright"
 longname	"Silent Fright"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

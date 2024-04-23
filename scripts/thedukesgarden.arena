@@ -1,5 +1,5 @@
 {
 map		"thedukesgarden"
 longname	"The Duke's Garden"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

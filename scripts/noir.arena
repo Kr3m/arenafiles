@@ -1,5 +1,5 @@
 {
 map		"fluorescentnoir"
 longname	"Fluorescent Noir"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

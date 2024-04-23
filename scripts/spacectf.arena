@@ -1,5 +1,5 @@
 {
 map		"spacectf"
 longname	"Space CTF"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }

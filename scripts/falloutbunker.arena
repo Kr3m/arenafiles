@@ -1,5 +1,5 @@
 {
 map		"falloutbunker"
 longname	"Fallout Bunker"
-type		"ctf"
+type		"ctf oneflag harvester obelisk"
 }
