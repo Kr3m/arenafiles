@@ -1,5 +1,5 @@
 {
-map		"rebound"
-longname	"Rebound"
+map		"mpteam8"
+longname	"Assassin's Roost"
 type		"ctf oneflag harvester obelisk"
 }

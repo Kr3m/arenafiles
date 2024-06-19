@@ -1,6 +1,6 @@
 {
-map		"phrantic"
-longname	"Phrantic"
+map		"symmetry"
+longname	"Symmetry"
 type		"ffa team tourney"
 bots		"doom hunter major ranger sarge slash tankjr visor"
 }

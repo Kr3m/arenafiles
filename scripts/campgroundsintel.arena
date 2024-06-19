@@ -1,6 +1,6 @@
+
 {
-map		"campgrounds"
-longname	"Campgrounds"
-type		"ffa tourney team ca"
-bots		"doom hunter major ranger sarge slash tankjr visor"
+map		"campgroundsintel"
+longname	"Campgrounds Intel"
+type		"ffa duel tdm ca ft rr dom race"
 }

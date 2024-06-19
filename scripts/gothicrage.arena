@@ -1,6 +1,6 @@
 {
 map		"gothicrage"
 longname	"Gothic Rage"
-type		"ffa tourney"
+type		"ffa team tourney"
 bots		"doom hunter major ranger sarge slash tankjr visor"
 }

@@ -1,0 +1,8 @@
+{
+map		"ct3dm5"
+longname	"Left Behind"
+bots	"xaero"
+fraglimit	0
+timelimit 10
+type	"tourney ffa team"
+}

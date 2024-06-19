@@ -1,5 +1,5 @@
 {
-map		"rebound"
-longname	"Rebound"
+map		"crossedoff"
+longname	"Crossedoff"
 type		"ctf oneflag harvester obelisk"
 }

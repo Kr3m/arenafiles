@@ -1,0 +1,7 @@
+{
+	map "eye2eye"
+      longname	"Eye 2 Eye"
+      fraglimit	50
+      type		"ffa tdm ca duel"
+
+}

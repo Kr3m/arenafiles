@@ -1,0 +1,7 @@
+{
+	map "mpngi1"
+	longname "Fade in Gothic"
+	bots "janet james"
+	fraglimit 20
+	type "ffa tourney team"
+}

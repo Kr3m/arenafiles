@@ -1,0 +1,35 @@
+{
+map             "ra3combat2"
+longname        "Death32c"
+type            "ffa duel tdm ca ft rr"
+}
+{
+map             "ra3combat2a"
+longname        "Place of Two Deaths"
+type            "ffa duel tdm ca ft rr"
+}
+{
+map             "ra3combat2b"
+longname        "Claustrophobopolis"
+type            "ffa duel tdm ca ft rr"
+}
+{
+map             "ra3combat2c"
+longname        "The Abandoned Base"
+type            "ffa duel tdm ca ft rr"
+}
+{
+map             "ra3combat2d"
+longname        "The Bad Place"
+type            "ffa duel tdm ca ft rr"
+}
+{
+map             "ra3combat2e"
+longname        "The Cistern"
+type            "ffa duel tdm ca ft rr"
+}
+{
+map             "ra3combat2f"
+longname        "The Dark Zone"
+type            "ffa duel tdm ca ft rr"
+}
